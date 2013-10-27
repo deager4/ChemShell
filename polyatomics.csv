@@ -1,0 +1,47 @@
+arsenate,AsO4,-3
+borate,BO3,-3
+tetraborate,B4O7,-2
+bromate,BrO3,-1
+hypobromite,BrO,-1
+carbonate,CO3,-2
+cyanide,CN,-1
+oxalate,C2O4,-2
+acetate,C2H3O2,-1
+tartrate,C4H4O6,-2
+perchlorate,ClO4,-1
+chlorate,ClO3,-1
+chlorite,ClO2,-1
+hypochlorite,ClO,-1
+chromate,CrO4,-2
+dichromate,Cr2O7,-2
+periodate,IO4,-1
+iodate,IO3,-1
+hypoiodite,IO,-1
+hydrogen carbonate,HCO3,-1
+bicarbonate,HCO3,-1
+hydrogen sulfate,HSO4,-1
+bisulfate,HSO4,-1
+hydrogen sulfite,HSO3,-1
+bisulfite,HSO3,-1
+hydrogen oxalate,HC2O4,-1
+binoxalate,HC2O4,-1
+hydrogen phosphate,HPO4,-2
+dihydrogen phosphate,H2PO4,-1
+hydrogen sulfide,HS,-1
+permanganate,MnO4,-1
+amide,NH2,-1
+ammonium,NH4,1
+nitrate,NO3,-1
+nitrite,NO2,-1
+hydroxide,OH,-1
+peroxide,O2,-2
+phosphate,PO4,-3
+phosphite,PO3,-3
+thiocyanate,SCN,-1
+thiosulfate,S2O3,-2
+sulfate,SO4,-2
+sulfite,SO3,-2
+selenate,SeO4,-2
+hexafluorosilicate,SiF6,-2
+silicate,SiO3,-2
+

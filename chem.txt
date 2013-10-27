@@ -1,0 +1,40 @@
+ChemShell notes
+
+[to work on sometime]
+
+Goal:
+interactive shell of some format
+
+- balance equations (including redox)
+- perform mole conversions
+- use as human-like syntax as possible
+- all-caps for primary queries
+- possibly unit conversions (accept standard abbreviations)
+- number storage (???)
+
+>>> GRAMS 12 moles CH4
+>>> MOLES 9 grams Hydrogen Peroxide
+>>> @ EQUALS GRAMS 12 moles CH4
+>>> OUNCES 1 mole carbon
+
+>>> BALANCE H2SO4 + NaOH --> H20 + Na2SO4
+>>> BALANCE Cu + HN03 --> Cu(2+) + NO
+
+>>> PREDICT GRAMS H20 BALANCE 25gH2SO4 + 15gNaOH --> H20 + Na2SO4
+
+- Charges go in parentheses (so Cu2(+) and Cu(2+) aren't the same
+- Each primary query has some syntax
+- Need to parse nomenclature… could be tricky
+- Assemble giant chart of ions to formulae and charges (hypo,ite,ate,per)
+- Make everything work well together
+- Quick-reference
+
+Make it so you can put in KILOGRAMS [something]
+
+Dev plans:
+1. Convert mass to moles in elements
+2. Convert mass to moles in compounds (read chem formulas)
+3. Read names into formulas with polyatomic ions, etc.
+4. Other unit conversions
+5. Predict, given balanced equations
+6. How many moles X to react with Y? once you balance equation
